@@ -1,4 +1,4 @@
-const { server } = require("@hapi/hapi");
+// const { server } = require("@hapi/hapi");
 const Hapi = require("@hapi/hapi");
 const routes = require("./routes");
 
